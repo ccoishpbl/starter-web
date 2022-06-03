@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Coypright
 
-2022 Git.Training.
+2022 Git.Training. All rights reserved.
